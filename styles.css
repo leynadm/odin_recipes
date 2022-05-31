@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: darkblue;
+    color: white;
+}
+
+li {
+    font-style: italic;
+}
+
+img {
+    border-radius: 16px;
+}
+
+h4 {
+    border-top: 1px solid;
+    border-bottom: 1px  solid;
+}
+
+.unordered-list {
+    background-color: azure;
+}
+
+.ordered-list {
+    background-color:bisque;
+}
+
+.main-menu-list{
+    font-size: 18px;
+}
